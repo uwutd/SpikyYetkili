@@ -1,0 +1,12 @@
+name: SpikyYetkili
+version: '3.0'
+main: org.faster.yetkili.Yetkili
+api-version: '1.21'
+description: Discord ve Oyun İçi Yetkili Takip & Hesap Eşleme Eklentisi
+author: spikyshin
+commands:
+  hesapeşle:
+    description: Discord hesabini oyunla eslestirir.
+    usage: /hesap eşle <Kod>
+  hesapkaldir:
+    description: Discord Hesabini Oyundan Kaldirir

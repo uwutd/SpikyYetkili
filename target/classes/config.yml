@@ -1,0 +1,7 @@
+bot-api-url: "http://127.0.0.1:4000/api"
+plugin-http-port: 4001
+
+discord-channels:
+  join-log: "GIRIS_KANAL_ID_BURAYA"
+  quit-log: "CIKIS_KANAL_ID_BURAYA"
+  link-log: "HESAP_ESLEME_KANAL_ID_BURAYA"
